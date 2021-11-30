@@ -1,0 +1,36 @@
+.lines::after{
+    left:0
+}
+
+.lines ::after {
+    width:100px;
+    height:45px;
+    position:reletive
+}
+
+line::after, line::before{
+    content :'' ;
+    position :absolute;
+    margin : auto;
+    height : 2px;
+    background : #070D1F;
+    width : 45%;
+    top : 45;
+ }
+.lines::after{
+    left:0
+}
+ line::before{
+     right :0
+ }
+ .cricle{
+     height : 40px;
+     width : 40px;
+     border : 2px solid #fff;
+     left : 0;
+     right : 0;
+     top : 0;
+     bottom : 0;
+     margin : auto
+  
+ }

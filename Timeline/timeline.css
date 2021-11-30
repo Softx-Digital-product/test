@@ -1,0 +1,196 @@
+
+.pno{
+    width:10%;
+    color:red;
+}
+
+ .btns-active{
+  background:#40e0d0;
+
+  color: white;
+    
+}
+
+/* .rowtng{ 
+   border:2px solid #F00;
+                border:2px solid red !important;
+color:#4285F4;
+              }*/
+              
+#timelinebars{
+/*                background: teal;*/
+              background:#008080;	
+                color:white;
+            }
+            .timelinelink{
+                color:white;
+            }
+            .timelinelink:hover
+            {
+                color:white;
+                text-decoration: underline;
+               
+                    
+            }   
+/*             #link_active{
+               background:#66b2b2;
+                    background:#40e0d0;
+               border-radius: 0 !important;
+                
+            }*/
+             #link_active{
+/*               background:#66b2b2;*/
+ background:#40e0d0;
+               border-radius: 0 !important;
+                
+            }
+            .vc{
+                 background:#008080;
+/*                height:50px;*/
+/*padding:10px;*/
+            }
+            
+            .cc{
+                background:#66b2b2;
+/*                height:40px;*/
+            }
+            .CN{
+                padding: 0px;
+            }
+            .vbg{
+                background: #008080;
+                padding:5px;
+            }
+            .btn{
+                background: #66b2b2;
+                border:none;
+            }
+             .btn:hover{
+                background: #66b2b2;
+                border:none;
+                    outline: none;
+                text-decoration: underline;
+            }
+            .btn:focus{
+                background: #66b2b2;
+                border:none;
+                    outline: none;
+                text-decoration: underline;
+            }
+/*            .btn active{
+                 background:black !important;
+               border-radius: 0 !important;
+            }*/
+
+            
+                 #canvas_container_m {
+        width: 99.9%;
+        height: 750px;
+        overflow: auto;
+    }
+	#pdf_renderer_m{ width:99.9%; cursor:pointer;}
+  
+  .couponcode:hover .coupontooltip {
+    display: block;
+}
+        #canvas_container {
+        width: 99.9%;
+        height: 850px;
+        overflow: auto;
+    }
+	#pdf_renderer{ width:99.9%; cursor:pointer;}
+  
+  .couponcode:hover .coupontooltip {
+    display: block;
+}
+
+       
+            .tooltip{
+                color:white;
+                /*          background-color:blue;*/
+            }
+            .tooltip-inner {
+                background-color:  #00ace6;
+            }
+                 div.dataTables_filter, div.dataTables_length {
+
+ margin-bottom:-15px !important;
+ padding-left:30px !important;
+/*  padding-left:30px;*/
+ background:#66b2b2;
+ color:white;
+ padding:6px;
+   text-transform: uppercase;
+
+} div.dataTables_length {
+    margin-right: 20px;
+/*    background: green;*/
+
+}
+/*div#UserList_length {
+   padding-left:20px;
+}*/
+ div.dataTables_filter {
+     padding-right:30px !important;
+     margin-left: -100px;
+/*     background:yellow;*/
+ }
+div.dataTables_wrapper div.dataTables_filter input {
+/*   // background: red;*/
+/*   width:300px;*/
+width:350px;
+   
+    overflow: hidden !important;
+   
+}
+ 
+.table-striped > tbody > tr:nth-child(2n+1) > td, .table-striped > tbody > tr:nth-child(2n+1) > th {
+   background-color: #98D7C2 ;
+}
+
+.table-hover tbody tr:hover td, .table-hover tbody tr:hover th {
+  background-color:  #c9ffe5;
+  text-decoration: underline;
+      
+}                 div.dataTables_filter, div.dataTables_length {
+
+ margin-bottom:-15px !important;
+ padding-left:30px !important;
+/*  padding-left:30px;*/
+ background:#66b2b2;
+ color:white;
+ padding:6px;
+   text-transform: uppercase;
+
+} div.dataTables_length {
+    margin-right: 20px;
+/*    background: green;*/
+
+}
+/*div#UserList_length {
+   padding-left:20px;
+}*/
+ div.dataTables_filter {
+     padding-right:30px !important;
+     margin-left: -100px;
+/*     background:yellow;*/
+ }
+div.dataTables_wrapper div.dataTables_filter input {
+/*   // background: red;*/
+/*   width:300px;*/
+width:350px;
+   
+    overflow: hidden !important;
+   
+}
+ 
+.table-striped > tbody > tr:nth-child(2n+1) > td, .table-striped > tbody > tr:nth-child(2n+1) > th {
+   background-color: #98D7C2 ;
+}
+
+.table-hover tbody tr:hover td, .table-hover tbody tr:hover th {
+  background-color:  #c9ffe5;
+  text-decoration: underline;
+      
+}
+
